@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<equipo>
+    <nombre>FC Barcelona</nombre>
+ <jugadores>
+    <jugador>
+        <nombre>Lamine Yamal</nombre>
+        <edad>17</edad>
+        <altura>1.80 m</altura>
+        <peso>72 kg</peso>
+        <posicion>Extremo derecho</posicion>
+        <nacionalidad>español</nacionalidad>
+    </jugador>
+    <jugador>
+        <nombre>Raphinha</nombre>
+        <edad>28</edad>
+        <altura>1.76 m</altura>
+        <peso>68 kg</peso>
+        <posicion>Extremo izquierdo</posicion>
+        <nacionalidad>brasileño</nacionalidad>
+    </jugador>
+    <jugador>
+        <nombre>Gavi</nombre>
+        <edad>20</edad>
+        <altura>1.73 m</altura>
+        <peso>68 kg</peso>
+        <posicion>centrocampista</posicion>
+        <nacionalidad>español</nacionalidad>
+    </jugador>
+    <jugador>
+        <nombre>Iñaki Peña</nombre>
+        <edad>25</edad>
+        <altura>1.84 m</altura>
+        <peso>78 kg</peso>
+        <posicion>Portero</posicion>
+        <nacionalidad>español</nacionalidad>
+    </jugador>
+    <jugador>
+        <nombre>Robert Lewandowski</nombre>
+        <edad>36</edad>
+        <altura>1.85 m</altura>
+        <peso>81 kg</peso>
+        <posicion>Delantero</posicion>
+        <nacionalidad>polaco</nacionalidad>
+    </jugador>
+  </jugadores>
+  <entrenador>Hansi Flick</entrenador>
+  <campo>Camp Nou</campo>
+  <champions>5</champions>
+</equipo>

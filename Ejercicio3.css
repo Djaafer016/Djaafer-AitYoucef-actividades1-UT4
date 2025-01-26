@@ -1,0 +1,39 @@
+.disco {
+    display: block;
+    font-family: Arial, sans-serif;
+    background-color: white;
+    border: 2px solid gainsboro;
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+.disco > .ARTISTA, .disco > .TITULO {
+font-size: 1.5;
+font-weight: bold;
+}
+
+.disco > .SELLO,
+.disco > .FORMATO,
+.disco > .ANO,
+.disco > .OBSERVACIONES {
+font-size: 1;
+color: gray;
+}
+
+.disco > .canciones {
+margin-top: 15px;
+}
+
+.cancion {
+margin: 5px 0;
+padding: 5px;
+border-bottom: 1px solid white;
+}
+
+.cancion > .nombre {
+font-weight: bold;
+}
+
+

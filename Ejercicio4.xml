@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<? xml-stylesheet type="text/css" href="Ejercicio4.css"?>
+<data>
+    <movie>
+        <title>Big Fish</title>
+        <director>Tim Burton</director>
+        <description>Una película tan grande como la vida misma.</description>
+        <poster>
+            <image src="bigFish.png" alt="Póster de Big Fish"/>
+            <caption>Póster en español de la película.</caption>
+        </poster>
+    </movie>
+</data>
