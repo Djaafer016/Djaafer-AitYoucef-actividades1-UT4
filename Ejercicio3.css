@@ -1,4 +1,4 @@
-.disco {
+disco {
     display: block;
     font-family: Arial, sans-serif;
     background-color: white;
@@ -9,15 +9,15 @@
     margin: 20px auto;
 }
 
-.disco > .ARTISTA, .disco > .TITULO {
+disco > ARTISTA, disco > TITULO {
 font-size: 1.5;
 font-weight: bold;
 }
 
-.disco > .SELLO,
-.disco > .FORMATO,
-.disco > .ANO,
-.disco > .OBSERVACIONES {
+disco > SELLO,
+disco > FORMATO,
+disco > ANO,
+disco > OBSERVACIONES {
 font-size: 1;
 color: gray;
 }
@@ -26,13 +26,13 @@ color: gray;
 margin-top: 15px;
 }
 
-.cancion {
+cancion {
 margin: 5px 0;
 padding: 5px;
 border-bottom: 1px solid white;
 }
 
-.cancion > .nombre {
+cancion > nombre {
 font-weight: bold;
 }
 
